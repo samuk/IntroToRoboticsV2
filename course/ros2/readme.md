@@ -2,6 +2,8 @@ mkdir install
 
 cd install
 
+Install guest additions https://www.virtualbox.org/manual/ch04.html
+
 apt-get update
 
 sudo apt install lubuntu-desktop
