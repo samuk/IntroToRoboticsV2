@@ -54,4 +54,6 @@ install https://code.visualstudio.com/
 
 Install platformio
 
+Install vscode extensions c/c++ & platformio manually "code --install-extension myextension.vsix
+
 Angryip
