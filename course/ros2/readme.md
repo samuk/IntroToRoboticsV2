@@ -56,4 +56,6 @@ Install platformio
 
 Install vscode extensions c/c++ & platformio manually "code --install-extension myextension.vsix
 
+git config --system core.longpaths true
+
 Angryip
