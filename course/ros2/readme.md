@@ -2,7 +2,7 @@
 
 Install [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
 
-Download the [OVA file](https://archive.org/details/ros-2_OVA_0_1] (work in progress) and load it in Virtualbox.
+Download the [OVA file](https://archive.org/details/ros-2_OVA_0_1)(work in progress) and load it in Virtualbox.
 
 Start the virtual machine (password is ros2)
 
