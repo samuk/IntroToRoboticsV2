@@ -17,6 +17,10 @@
 
 4x [N20 mounts](https://www.aliexpress.com/item/4000099097725.html)
 
+1x pack [18mm female standoffs](https://www.aliexpress.com/item/32539100523.html)
+
+1x pack [M3 x 6mm screw](https://www.aliexpress.com/item/32539100523.html)
+
 1x [Battery cable](https://www.aliexpress.com/item/1005003207076823.html)
 
 1X [9v Battery](https://www.aliexpress.com/item/1005005523610603.html)
