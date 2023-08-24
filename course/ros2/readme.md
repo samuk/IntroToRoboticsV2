@@ -26,13 +26,21 @@ Have fun
 # BOM (WIP)
 
 1x [XRP Open hardware](https://www.sparkfun.com/products/22230), with encoders. No wifi transport for pico yet
-1x Motor holder PCB
+
+1x [Motor holder PCB](https://easyeda.com/editor#id=e655b08f80cd412e8119d61893779e39) (just register and one click order from JLPCB)
+
 1x [Pack of cables](https://www.aliexpress.com/item/32843338827.html)
+
 1x [Pack of 1mm JST SH connectors](https://www.aliexpress.com/item/10000005280584.html)
+
 4x [Bringsmart motors](https://www.aliexpress.com/item/33019382243.html)
+
 4x [N20 wheels](https://www.aliexpress.com/item/4000099589318.html)
+
 4x [N20 mounts](https://www.aliexpress.com/item/4000099097725.html)
+
 1x [Battery cable](https://www.aliexpress.com/item/1005003207076823.html)
+
 1X [9v Battery](https://www.aliexpress.com/item/1005005523610603.html)
 
 # Other PicoW or ESP32 cars may work too
