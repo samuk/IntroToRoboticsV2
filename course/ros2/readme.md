@@ -13,7 +13,7 @@
 
 4x [6v 150RPM Bringsmart motors](https://www.aliexpress.com/item/1005004999635290.html)
 
-4x [N20 wheels](https://www.aliexpress.com/item/4000099589318.html)
+4x [N20 wheels](https://www.aliexpress.com/item/1005005892959030.html)
 
 4x [N20 mounts](https://www.aliexpress.com/item/4000099097725.html)
 
