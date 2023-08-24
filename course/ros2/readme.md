@@ -33,7 +33,7 @@ Have fun
 
 1x [Pack of 1mm JST SH connectors](https://www.aliexpress.com/item/10000005280584.html)
 
-4x [Bringsmart motors](https://www.aliexpress.com/item/33019382243.html)
+4x [6v 150RPM Bringsmart motors](https://www.aliexpress.com/item/1005004999635290.html)
 
 4x [N20 wheels](https://www.aliexpress.com/item/4000099589318.html)
 
