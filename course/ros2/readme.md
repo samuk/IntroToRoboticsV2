@@ -8,7 +8,7 @@ Start the virtual machine (password is ros2)
 
 In the linux desktop Open VScode
 
-Configure [platformio.ini](https://github.com/hippo5329/linorobot2_hardware/blob/master/firmware/platformio.ini) to match your ESP32/Pico device
+If using a ESP3 configure [platformio.ini](https://github.com/rosmo-robot/linorobot2_hardware_ESP32_Pico/blob/master/firmware/platformio.ini) to match, defaults to PicoW.
 
 Build the firmware and flash to your device.
 
