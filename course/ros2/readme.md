@@ -1,3 +1,26 @@
+
+ ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/bot.png)
+ 
+# BOM (WIP)
+
+1x [XRP Open hardware](https://www.sparkfun.com/products/22230), with encoders. No wifi transport for pico yet
+
+1x [Motor holder PCB](https://easyeda.com/editor#id=e655b08f80cd412e8119d61893779e39) (just register and one click order from JLPCB)
+
+1x [Pack of cables](https://www.aliexpress.com/item/32843338827.html)
+
+1x [Pack of 1mm JST SH connectors](https://www.aliexpress.com/item/10000005280584.html)
+
+4x [6v 150RPM Bringsmart motors](https://www.aliexpress.com/item/1005004999635290.html)
+
+4x [N20 wheels](https://www.aliexpress.com/item/4000099589318.html)
+
+4x [N20 mounts](https://www.aliexpress.com/item/4000099097725.html)
+
+1x [Battery cable](https://www.aliexpress.com/item/1005003207076823.html)
+
+1X [9v Battery](https://www.aliexpress.com/item/1005005523610603.html)
+
 # How to
 
 Install [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
@@ -21,27 +44,6 @@ Launch ROS2
 Open [http://your-robot-ip:8888/](https://github.com/dheera/rosboard/pull/100) in a browser and control the car
 
 Have fun
-
-
-# BOM (WIP)
-
-1x [XRP Open hardware](https://www.sparkfun.com/products/22230), with encoders. No wifi transport for pico yet
-
-1x [Motor holder PCB](https://easyeda.com/editor#id=e655b08f80cd412e8119d61893779e39) (just register and one click order from JLPCB)
-
-1x [Pack of cables](https://www.aliexpress.com/item/32843338827.html)
-
-1x [Pack of 1mm JST SH connectors](https://www.aliexpress.com/item/10000005280584.html)
-
-4x [6v 150RPM Bringsmart motors](https://www.aliexpress.com/item/1005004999635290.html)
-
-4x [N20 wheels](https://www.aliexpress.com/item/4000099589318.html)
-
-4x [N20 mounts](https://www.aliexpress.com/item/4000099097725.html)
-
-1x [Battery cable](https://www.aliexpress.com/item/1005003207076823.html)
-
-1X [9v Battery](https://www.aliexpress.com/item/1005005523610603.html)
 
 # Other PicoW or ESP32 cars may work too
 
