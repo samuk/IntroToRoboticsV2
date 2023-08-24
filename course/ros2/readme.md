@@ -7,7 +7,7 @@
 
 1x [Motor holder PCB](https://easyeda.com/editor#id=e655b08f80cd412e8119d61893779e39) (just register and one click order from JLPCB)
 
-1x [Pack of cables](https://www.aliexpress.com/item/32843338827.html)
+1x [1mm > 1mm Pack of cables](https://www.aliexpress.com/item/32843338827.html)
 
 1x [Pack of 1mm JST SH connectors](https://www.aliexpress.com/item/10000005280584.html)
 
