@@ -7,15 +7,15 @@
 
 1x [Motor holder PCB](https://easyeda.com/editor#id=e655b08f80cd412e8119d61893779e39) (just register and one click order from JLPCB)
 
-1x [1mm > 1mm Pack of cables](https://www.aliexpress.com/item/32843338827.html)
+1x [1mm > 1mm Pack of cables](https://s.click.aliexpress.com/e/_De5zhCP)
 
-1x [Pack of 1mm JST SH connectors](https://www.aliexpress.com/item/10000005280584.html)
+1x [Pack of 1mm JST SH connectors](https://s.click.aliexpress.com/e/_DDIr1m7)
 
-4x [6v 150RPM Bringsmart motors](https://www.aliexpress.com/item/1005004999635290.html)
+4x [6v 150RPM Bringsmart motors](https://s.click.aliexpress.com/e/_DC72ruf)
 
-4x [N20 wheels](https://www.aliexpress.com/item/1005005892959030.html)
+4x [N20 wheels](https://s.click.aliexpress.com/e/_DBjDZqx)
 
-4x [N20 mounts](https://www.aliexpress.com/item/4000099097725.html)
+4x [N20 mounts](https://s.click.aliexpress.com/e/_Dm7LWRD)
 
 1x pack [18mm female standoffs](https://www.aliexpress.com/item/32539100523.html)
 
@@ -23,9 +23,9 @@
 
 1x [Battery cable](https://www.aliexpress.com/item/1005003207076823.html)
 
-1X [9v Battery](https://www.aliexpress.com/item/1005005523610603.html)
+1X [9v Battery](https://s.click.aliexpress.com/e/_DdPChq3)
 
-Or alternately a upgraded [Fatshark battery pack](https://www.amazon.co.uk/Tattu-2500-mAh-Replacement-Battery-Fatshark/dp/B071D92NWW) or [18650 battery](https://www.aliexpress.com/i/1005002830744994.html)
+Or alternately a upgraded [Fatshark battery pack](https://www.amazon.co.uk/Tattu-2500-mAh-Replacement-Battery-Fatshark/dp/B071D92NWW) or [18650 battery](https://s.click.aliexpress.com/e/_DClgys7)
 
 # How to
 
