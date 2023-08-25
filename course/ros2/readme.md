@@ -25,6 +25,8 @@
 
 1X [9v Battery](https://www.aliexpress.com/item/1005005523610603.html)
 
+Or alternately a upgraded [Fatshark battery pack](https://www.amazon.co.uk/Tattu-2500-mAh-Replacement-Battery-Fatshark/dp/B071D92NWW) or [18650 battery](https://www.aliexpress.com/i/1005002830744994.html)
+
 # How to
 
 Install [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
