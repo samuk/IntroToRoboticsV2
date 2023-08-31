@@ -1,6 +1,5 @@
 
  ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/bot.jpg)
- 
 # BOM (WIP)
 
 1x [XRP Open hardware](https://www.sparkfun.com/products/22230), with encoders. No wifi transport for pico yet. Could be used with [open hardware pico](https://www.olimex.com/Products/MicroPython/RP2040-PICO30/open-source-hardware)
