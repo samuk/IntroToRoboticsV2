@@ -1,5 +1,5 @@
 
- ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/bot.png)
+ ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/bot.jpg)
  
 # BOM (WIP)
 
