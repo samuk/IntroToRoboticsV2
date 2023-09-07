@@ -1,5 +1,5 @@
 
- ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/bot.jpg)
+ ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/xrp4.jpg)
 # BOM (WIP)
 
 1x [XRP Open hardware](https://www.sparkfun.com/products/22230), with encoders. No wifi transport for pico yet. Could be used with [open hardware pico](https://www.olimex.com/Products/MicroPython/RP2040-PICO30/open-source-hardware)
@@ -58,7 +58,7 @@ Have fun
 
 [ESP cam car](https://www.aliexpress.com/item/1005005439195049.html), no encoders
 
-# Software installed
+# Notes on software installed on the Ubuntu 22.04 Virtualbox image
 
 apt-get update
 
@@ -86,6 +86,8 @@ Install vscode extensions c/c++ & platformio manually "code --install-extension 
 
 git config --system core.longpaths true
 
-Angryip
+git clone https://github.com/rosmo-robot/linorobot2_hardware_ESP32_Pico -b $ROS_DISTRO
+
+Angryip?
 
 [Rosboard fork](https://github.com/dheera/rosboard/pull/100)
