@@ -1,14 +1,16 @@
 
- ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/xrp4.jpg)
+ ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/xrp4.jpeg)
 # BOM (WIP)
 
 1x [XRP Open hardware](https://www.sparkfun.com/products/22230), with encoders. No wifi transport for pico yet. Could be used with [open hardware pico](https://www.olimex.com/Products/MicroPython/RP2040-PICO30/open-source-hardware)
 
 1x [Motor holder PCB](https://easyeda.com/editor#id=e655b08f80cd412e8119d61893779e39) (just register and one click order from JLPCB)
 
-1x [1mm > 1mm Pack of cables](https://s.click.aliexpress.com/e/_De5zhCP)
+1x [1mm > ?mm Pack of cables](https://s.click.aliexpress.com/e/_De5zhCP)
 
-1x [Pack of 1mm JST SH connectors](https://s.click.aliexpress.com/e/_DDIr1m7)
+1x [Pack of 1mm 6p JST SH connectors](https://s.click.aliexpress.com/e/_DDIr1m7)
+
+1x [Pack of 1.27mm? 6P JST SH connectors](https://s.click.aliexpress.com/e/_DDIr1m7)
 
 4x [6v 150RPM Bringsmart motors](https://s.click.aliexpress.com/e/_DC72ruf)
 
