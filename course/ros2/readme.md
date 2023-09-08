@@ -6,11 +6,11 @@
 
 1x [Motor holder PCB](https://easyeda.com/editor#id=e655b08f80cd412e8119d61893779e39) (just register and one click order from JLPCB)
 
-1x [1mm > ?mm Pack of cables](https://s.click.aliexpress.com/e/_De5zhCP)
+1x [1mm > 1.5mm Pack of cables](https://www.aliexpress.com/item/32800824381.html)
 
 1x [Pack of 1mm 6p JST SH connectors](https://s.click.aliexpress.com/e/_DDIr1m7)
 
-1x [Pack of 1.27mm? 6P JST SH connectors](https://s.click.aliexpress.com/e/_DDIr1m7)
+1x [Pack of 1.5mm 6P JST ZH connectors](https://www.aliexpress.com/item/32911443586.html)
 
 4x [6v 150RPM Bringsmart motors](https://s.click.aliexpress.com/e/_DC72ruf)
 
