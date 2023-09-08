@@ -2,7 +2,7 @@
  ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/xrp4.jpeg)
 # BOM (WIP)
 
-1x [XRP Open hardware](https://www.sparkfun.com/products/22230), with encoders. No wifi transport for pico yet. Could be used with [open hardware pico](https://www.olimex.com/Products/MicroPython/RP2040-PICO30/open-source-hardware)
+1x [XRP Open hardware XRP PCB](http://docs.sparkfun.com/SparkFun_XRP_Controller/hardware_overview/), with encoders. No wifi transport for pico yet. Could be used with [open hardware pico](https://www.olimex.com/Products/MicroPython/RP2040-PICO30/open-source-hardware)
 
 1x [Motor holder PCB](https://easyeda.com/editor#id=e655b08f80cd412e8119d61893779e39) (just register and one click order from JLPCB)
 
