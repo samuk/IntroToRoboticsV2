@@ -26,9 +26,9 @@
 
 1X [9v Battery](https://s.click.aliexpress.com/e/_DdPChq3)
 
-Or alternately a upgraded [Fatshark battery pack](https://www.amazon.co.uk/Tattu-2500-mAh-Replacement-Battery-Fatshark/dp/B071D92NWW) or [18650 battery](https://s.click.aliexpress.com/e/_DClgys7) or open hardware [18650 battery](https://oshwlab.com/wagiminator/fp6277-power-bank)
+Or alternately a upgraded  or [18650 battery](https://s.click.aliexpress.com/e/_DClgys7) or open hardware [18650 battery](https://oshwlab.com/wagiminator/fp6277-power-bank)
 
-# How to
+# How to run this bot with ROS2 (WIP)
 
 Install [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
 
