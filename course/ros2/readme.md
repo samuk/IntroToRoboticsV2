@@ -1,6 +1,6 @@
 
  ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/xrp4.jpeg)
-# BOM (WIP)
+# XRP-4 BOM (WIP)
 
 1x [XRP Open hardware XRP PCB](http://docs.sparkfun.com/SparkFun_XRP_Controller/hardware_overview/), with encoders. No wifi transport for pico yet. Could be used with [open hardware pico](https://www.olimex.com/Products/MicroPython/RP2040-PICO30/open-source-hardware)
 
