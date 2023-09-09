@@ -33,21 +33,22 @@ Or alternately a upgraded  or [18650 battery](https://s.click.aliexpress.com/e/_
  ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/compute-xrp4.jpeg
 )
 
-[On-board compute. Beagleboard Play](https://www.beagleboard.org/boards/beagleplay)
 
 
  ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/ultrasonic-xrp4.jpeg
 )
 
-[Ultrasonic - ZIO](https://github.com/ZIOCC/Zio-Qwiic-Ultrasonic-Distance-Sensor) (ultrasonic kinda sucks, but people seem to expect it)
+[On-board compute. Beagleboard Play](https://www.beagleboard.org/boards/beagleplay)
+
+[Camera - Maxlab](https://github.com/maxlab-io/tokay-lite-pcb)
 
 [TOF - Sparkfun](https://www.sparkfun.com/products/19013)
 
 [OLED/Eyes - Adafruit](https://www.adafruit.com/product/5297#description)
 
-[Line finder - ZIO]https://github.com/ZIOCC/Zio-Line-Finder-Qwiic-4-Transceivers-]
+[Line finder - ZIO](https://github.com/ZIOCC/Zio-Line-Finder-Qwiic-4-Transceivers-)
 
-[Camera - Maxlab](https://github.com/maxlab-io/tokay-lite-pcb)
+[Ultrasonic - ZIO](https://github.com/ZIOCC/Zio-Qwiic-Ultrasonic-Distance-Sensor) 
 
 [Servo - Zio](https://github.com/rosmo-robot/Qwiic_Servo_Driver_PCA9685/)
 
