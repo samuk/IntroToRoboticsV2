@@ -1,6 +1,6 @@
 
  ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/xrp4.jpeg)
-# XRP-4 BOM (WIP)
+# XRP-4 BOM (WIP) 100% open hardware
 
 1x [XRP Open hardware XRP PCB](http://docs.sparkfun.com/SparkFun_XRP_Controller/hardware_overview/), with encoders. No wifi transport for pico yet. Could be used with [open hardware pico](https://www.olimex.com/Products/MicroPython/RP2040-PICO30/open-source-hardware)
 
@@ -27,6 +27,26 @@
 1X [9v Battery](https://s.click.aliexpress.com/e/_DdPChq3)
 
 Or alternately a upgraded  or [18650 battery](https://s.click.aliexpress.com/e/_DClgys7) or open hardware [18650 battery](https://oshwlab.com/wagiminator/fp6277-power-bank)
+
+# Additional components
+
+On-board compute
+ ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/compute-xrp4.jpeg
+)
+
+
+Distance sensors
+
+ ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/ultrasonic-xrp4.jpeg
+)
+
+[Ultrasonic from ZIO](https://github.com/ZIOCC/Zio-Qwiic-Ultrasonic-Distance-Sensor) (ultrasonic kinda sucks, but people seem to expect it)
+
+OLED/Eyes
+
+line finder
+
+
 
 # How to run this bot with ROS2 (WIP)
 
