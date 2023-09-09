@@ -30,22 +30,26 @@ Or alternately a upgraded  or [18650 battery](https://s.click.aliexpress.com/e/_
 
 # Additional components
 
-On-board compute
  ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/compute-xrp4.jpeg
 )
 
+[On-board compute. Beagleboard Play](https://www.beagleboard.org/boards/beagleplay)
 
-Distance sensors
 
  ![Bot](https://raw.githubusercontent.com/samuk/IntroToRoboticsV2/main/course/ros2/ultrasonic-xrp4.jpeg
 )
 
-[Ultrasonic from ZIO](https://github.com/ZIOCC/Zio-Qwiic-Ultrasonic-Distance-Sensor) (ultrasonic kinda sucks, but people seem to expect it)
+[Ultrasonic - ZIO](https://github.com/ZIOCC/Zio-Qwiic-Ultrasonic-Distance-Sensor) (ultrasonic kinda sucks, but people seem to expect it)
 
-OLED/Eyes
+[TOF - Sparkfun](https://www.sparkfun.com/products/19013)
 
-line finder
+[OLED/Eyes - Adafruit](https://www.adafruit.com/product/5297#description)
 
+[Line finder - ZIO]https://github.com/ZIOCC/Zio-Line-Finder-Qwiic-4-Transceivers-]
+
+[Camera - Maxlab](https://github.com/maxlab-io/tokay-lite-pcb)
+
+[Servo - Zio](https://github.com/rosmo-robot/Qwiic_Servo_Driver_PCA9685/)
 
 
 # How to run this bot with ROS2 (WIP)
@@ -80,7 +84,7 @@ Have fun
 
 [ESP cam car](https://www.aliexpress.com/item/1005005439195049.html), no encoders
 
-# Notes on software installed on the Ubuntu 22.04 Virtualbox image
+# Notes on software installed on the Ubuntu 22.04 Virtualbox image, or compute module
 
 apt-get update
 
