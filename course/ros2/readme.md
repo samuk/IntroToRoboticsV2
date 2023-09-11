@@ -50,7 +50,7 @@ Or alternately a upgraded  or [18650 battery](https://s.click.aliexpress.com/e/_
 
 [Ultrasonic - ZIO](https://github.com/ZIOCC/Zio-Qwiic-Ultrasonic-Distance-Sensor) 
 
-[Servo - Zio](https://github.com/rosmo-robot/Qwiic_Servo_Driver_PCA9685/)
+[Servo - Zio](https://github.com/rosmo-robot/Qwiic_Servo_Driver_PCA9685/) for [mini arm](https://www.thingiverse.com/thing:5683010)
 
 
 # How to run this bot with ROS2 (WIP)
